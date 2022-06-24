@@ -62,5 +62,5 @@
 
     6. нажать добавить и ввести путь к папке Python38-32 и так же добавить тот же путь но с препиской путь\Scripts\
     7. cохранить и запустить снова pips.py
-    *если не понято как это сделать то вот видео посмотрите на 1:15 минуте https://www.youtube.com/watch?v=CgCJwDjm_Cw&t=222s&ab_channel=ХаудиХо™-ПростоомиреIT%21*
+    *[посмотреть видео инструкцию](https://youtube.com/clip/UgkxFAYldcKNQNSg-ZPq1okxZwEzAzCJLjN9)*
 8.  
