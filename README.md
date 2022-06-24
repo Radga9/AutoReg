@@ -46,7 +46,7 @@
 
 6.  Установить расшерение Buster: Captcha Solver for Humans по ссылке : https://addons.mozilla.org/ru/firefox/addon/buster-captcha-solver/
 
-***Ура, Настройка Браузера завершена!!!***
+**Ура, Настройка Браузера завершена!!!**
 
 7.  Нужно запустить pips.py
 8.  
